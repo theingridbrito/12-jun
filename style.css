@@ -3,7 +3,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 600px;
+    height: 650px;
     background: linear-gradient(to bottom right, #200000 48%, #680000);
   }
 
