@@ -1,12 +1,15 @@
 body {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 600px;
-    background-color: #2f0000;
+    background: linear-gradient(to bottom right, #200000 48%, #680000);
   }
+
   /*Create the card container*/
   .valentineCard {
+  
     position: relative;
    width: 280px;
     height:380px;
